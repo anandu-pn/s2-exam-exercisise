@@ -1,0 +1,1 @@
+"# s2-exam-exercisise"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/anandu-pn/s2-exam-exercisise.gitgit push -u origin main
