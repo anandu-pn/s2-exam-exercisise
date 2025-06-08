@@ -1,0 +1,23 @@
+inserted
+then
+insert
+insert
+insert1
+insert1
+if [[ $# -eq 3 ]]
+inser2
+inser2
+	if [[ $1 =~ ^[0-9]+$  ]] && [[ $2 =~ ^[0-9]+$  ]] && [[ $3 =~ ^[0-9]+$  ]]
+	thenn
+		thenn
+			echo "$1 is largest number"
+		thenn
+			echo "$2 is largest number"
+		else 
+		fi	
+	else
+		echo "only enter no strings allowed"
+	fi	
+else
+	echo "Enter valid arguments"
+fi

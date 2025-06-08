@@ -1,0 +1,74 @@
+Script started on 2025-06-08 18:10:01+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="93" LINES="40"]
+]0;user@user-virtualbox: ~/Desktop/NSA/ex[01;32muser@user-virtualbox[00m:[01;34m~/Desktop/NSA/ex[00m$ nano te
+[?2004h[?1049h[22;0;0t[1;40r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[38;41H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 4.8                                 te                                            [1;92H(B[m[39d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos[40d(B[0;7m^X(B[m Exit[40;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line[38d[2d[39;49m(B[m[?12l[?25h[?25l[38d[J[40d[?12l[?25h[40;1H[?1049l[23;0;0t[?1l>[?2004l]0;user@user-virtualbox: ~/Desktop/NSA/ex[01;32muser@user-virtualbox[00m:[01;34m~/Desktop/NSA/ex[00m$ nano te
+terminal_log.txt  test/             test2.txt         test.txt          
+]0;user@user-virtualbox: ~/Desktop/NSA/ex[01;32muser@user-virtualbox[00m:[01;34m~/Desktop/NSA/ex[00m$ nano te
+terminal_log.txt  test/             test2.txt         test.txt          
+]0;user@user-virtualbox: ~/Desktop/NSA/ex[01;32muser@user-virtualbox[00m:[01;34m~/Desktop/NSA/ex[00m$ nano terminal_log.txt 
+[?2004h[?1049h[22;0;0t[1;40r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[38;40H(B[0;7m[ Reading... ](B[m[38;39H(B[0;7m[ Read 0 lines ](B[m[H(B[0;7m  GNU nano 4.8                          terminal_log.txt                                     [1;92H(B[m[39d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos[40d(B[0;7m^X(B[m Exit[40;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line[38d[2d[39;49m(B[m[?12l[?25h[?25l[38d[J[40d[?12l[?25h[40;1H[?1049l[23;0;0t[?1l>[?2004l]0;user@user-virtualbox: ~/Desktop/NSA/ex[01;32muser@user-virtualbox[00m:[01;34m~/Desktop/NSA/ex[00m$ ls
+ [0m[01;32m04_l_amoung_3.sh[0m   [01;32m10_count_file.sh[0m   [01;32m16_palidrome_str.sh[0m      [01;34mtest[0m
+ [01;32m05_calc.sh[0m         [01;32m11_rev_num.sh[0m      [01;32m17_fibmocci.sh[0m           test2.txt
+ [01;32m06_num_log.sh[0m      [01;32m12_com_str.sh[0m      combine_out.txt          test.txt
+ [01;32m07_rev_file.sh[0m     [01;32m14_sys_con.sh[0m     'DBMS lab record 1.pdf'   user.1st
+ [01;32m08_even_odd.sh[0m     [01;32m15_factorial.sh[0m    [01;32mfile_wile.sh[0m             [01;32mwhile_addition.sh[0m
+ [01;32m09_check_dir.sh[0m    [01;32m16_palidrome.sh[0m    terminal_log.txt         [01;32mwhile_remove.sh[0m
+]0;user@user-virtualbox: ~/Desktop/NSA/ex[01;32muser@user-virtualbox[00m:[01;34m~/Desktop/NSA/ex[00m$ lsnano terminal_log.txt 
+[?2004h[?1049h[22;0;0t[1;40r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[38;40H(B[0;7m[ Reading... ](B[m[38;39H(B[0;7m[ Read 0 lines ](B[m[H(B[0;7m  GNU nano 4.8                          terminal_log.txt                                     [1;92H(B[m[39d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos[40d(B[0;7m^X(B[m Exit[40;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line[38d[2d[39;49m(B[m[?12l[?25h[?25l[?12l[?25h[?25l[38d[J[40d[?12l[?25h[40;1H[?1049l[23;0;0t[?1l>[?2004l]0;user@user-virtualbox: ~/Desktop/NSA/ex[01;32muser@user-virtualbox[00m:[01;34m~/Desktop/NSA/ex[00m$ geany[K[K[K[K[Kgeany palidrm[Kome_str.sh
+
+(geany:11505): GLib-GIO-[1;35mCRITICAL[0m **: [34m18:12:06.466[0m: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(geany:11505): GLib-GIO-[1;35mCRITICAL[0m **: [34m18:12:06.467[0m: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(geany:11505): GLib-GIO-[1;35mCRITICAL[0m **: [34m18:12:06.467[0m: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(geany:11505): GLib-GIO-[1;35mCRITICAL[0m **: [34m18:12:06.467[0m: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(geany:11505): GLib-GIO-[1;35mCRITICAL[0m **: [34m18:12:06.467[0m: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(geany:11505): GLib-GIO-[1;35mCRITICAL[0m **: [34m18:12:06.467[0m: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(geany:11505): GLib-GIO-[1;35mCRITICAL[0m **: [34m18:12:06.467[0m: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(geany:11505): GLib-GIO-[1;35mCRITICAL[0m **: [34m18:12:06.467[0m: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(geany:11505): GLib-GIO-[1;35mCRITICAL[0m **: [34m18:12:06.467[0m: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(geany:11505): GLib-GIO-[1;35mCRITICAL[0m **: [34m18:12:06.467[0m: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(geany:11505): GLib-GIO-[1;35mCRITICAL[0m **: [34m18:12:06.467[0m: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(geany:11505): GLib-GIO-[1;35mCRITICAL[0m **: [34m18:12:06.468[0m: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(geany:11505): GLib-GIO-[1;35mCRITICAL[0m **: [34m18:12:06.468[0m: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(geany:11505): GLib-GIO-[1;35mCRITICAL[0m **: [34m18:12:06.468[0m: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(geany:11505): GLib-GIO-[1;35mCRITICAL[0m **: [34m18:12:06.468[0m: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(geany:11505): GLib-GIO-[1;35mCRITICAL[0m **: [34m18:12:06.468[0m: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(geany:11505): GLib-GIO-[1;35mCRITICAL[0m **: [34m18:12:06.468[0m: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(geany:11505): GLib-GIO-[1;35mCRITICAL[0m **: [34m18:12:06.468[0m: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(geany:11505): GLib-GIO-[1;35mCRITICAL[0m **: [34m18:12:06.468[0m: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(geany:11505): GLib-GIO-[1;35mCRITICAL[0m **: [34m18:12:06.468[0m: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(geany:11505): GLib-GIO-[1;35mCRITICAL[0m **: [34m18:12:06.468[0m: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(geany:11505): GLib-GIO-[1;35mCRITICAL[0m **: [34m18:12:06.468[0m: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(geany:11505): GLib-GIO-[1;35mCRITICAL[0m **: [34m18:12:06.468[0m: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(geany:11505): GLib-GIO-[1;35mCRITICAL[0m **: [34m18:12:06.468[0m: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(geany:11505): GLib-GIO-[1;35mCRITICAL[0m **: [34m18:12:06.468[0m: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(geany:11505): GLib-GIO-[1;35mCRITICAL[0m **: [34m18:12:06.468[0m: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(geany:11505): GLib-GIO-[1;35mCRITICAL[0m **: [34m18:12:06.468[0m: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(geany:11505): GLib-GIO-[1;35mCRITICAL[0m **: [34m18:12:06.468[0m: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+
+(geany:11505): GLib-GIO-[1;35mCR
